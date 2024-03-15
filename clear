@@ -1,0 +1,2 @@
+sudo apt clean
+sudo apt autoclean
